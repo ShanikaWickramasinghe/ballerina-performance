@@ -25,7 +25,7 @@ A type system that embraces network payload variability with primitive, object, 
 #### Concurrency
 An execution model composed of lightweight parallel worker units that are non-blocking where no function can lock an executing thread manifesting sequence concurrency.
 
-## Run Perdormance Tests
+## Run Performance Tests
 
 The performance test script is designed to include and exclude scenarios. It allows to change all the parameters as follows.
 
